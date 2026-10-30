@@ -315,7 +315,7 @@ A operação está disponível tanto no script Python quanto na aplicação web.
 Execute o arquivo:
 
 ```powershell
-cd "C:\Users\guilh\.gemini\antigravity\scratch\calculadora"
+cd "seu_computador/acesso_de_terminal_aqui"
 python calculadora.py
 ```
 
